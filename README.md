@@ -8,4 +8,4 @@ Design a dynamic Power BI dashboard that tracks key metrics—sales, Profit, and
 ##### Bar Chart: Place a bar chart alongside the bubble map to provide a detailed breakdown of sales by state. This chart should allow for easy comparison between states, with bars sorted either in ascending or descending order of sales.
  
  #### Dashboard_Overview:
- ![Sales_Overview_Dashboard)](/Resources/Sales_Overview_Dashboard_image.png)
+ ![Sales_Overview_Dashboard)](Sales_Overview_Dashboard_image.png)
